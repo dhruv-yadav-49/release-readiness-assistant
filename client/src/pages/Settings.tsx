@@ -1,4 +1,3 @@
-import React from 'react';
 import { Settings as SettingsIcon, Bell, Shield, User, Globe } from 'lucide-react';
 
 export default function Settings() {
