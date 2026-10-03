@@ -23,7 +23,7 @@ export default function Settings() {
             <p className="text-sm text-slate-500">Update your name, email, and avatar.</p>
           </div>
         </div>
-        
+
         <div className="p-6 border-b border-slate-100 flex items-center space-x-4">
           <div className="bg-indigo-50 text-indigo-600 p-3 rounded-full">
             <Bell size={20} />
@@ -34,7 +34,7 @@ export default function Settings() {
           </div>
           <button className="px-4 py-2 border border-slate-200 rounded-lg text-sm font-medium hover:bg-slate-50">Configure</button>
         </div>
-        
+
         <div className="p-6 border-b border-slate-100 flex items-center space-x-4">
           <div className="bg-emerald-50 text-emerald-600 p-3 rounded-full">
             <Globe size={20} />
@@ -57,7 +57,7 @@ export default function Settings() {
           <button className="px-4 py-2 border border-slate-200 rounded-lg text-sm font-medium hover:bg-slate-50">Configure</button>
         </div>
       </div>
-      
+
       <div className="mt-8 text-center text-slate-400 text-sm">
         <p>This page is currently a placeholder for future settings functionality.</p>
       </div>
